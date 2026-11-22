@@ -6,7 +6,9 @@ Local speech-to-text for **Windows**, **CPU only** — no cloud, no GPU required
 
 ## Download
 
-The full package is too large for normal repo uploads. Get **`SpeechToText.zip`** from **[Releases](olesha-ai/Speech-To-Text/releases)** (latest release).
+Download **[SpeechToText.zip](https://github.com/olesha-ai/Speech-To-Text/releases/download/0.1.0/SpeechToText.zip)** (~470 MB).
+
+All releases: https://github.com/olesha-ai/Speech-To-Text/releases
 
 ## Quick start
 
